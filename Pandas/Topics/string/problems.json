@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T06:55:42.067Z",
+  "updatedAt": "2026-11-11T06:55:57.646Z",
   "problems": [
+    {
+      "frontendId": "2211",
+      "title": "Count Collisions on a Road",
+      "slug": "count-collisions-on-a-road",
+      "problemName": "2211-count-collisions-on-a-road",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-collisions-on-a-road/",
+      "folderPath": "Pandas/2211-count-collisions-on-a-road/",
+      "readmePath": "Pandas/2211-count-collisions-on-a-road/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2211-count-collisions-on-a-road.cpp",
+          "path": "Pandas/2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.cpp",
+          "sha": "6cf454a515f4fc91d5c9398afc9107ef2fa788be",
+          "lastSyncedAt": "2026-11-11T06:55:57.646Z"
+        }
+      ]
+    },
     {
       "frontendId": "3884",
       "title": "First Matching Character From Both Ends",
