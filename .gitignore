@@ -1,68 +1,48 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# ==============================
+# C++ Build Files
+# ==============================
 *.exe
 *.out
-*.app
-
-# Build directories
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.class
 build/
-Build/
-build-*/
+cmake-build-*/
 
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# Temporary files
-*.tmp
-*.log
-*.bak
-*.swp
+# ==============================
+# Environment & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
 
-# vcpkg
-vcpkg_installed/
+# ==============================
+# IDE & Editor
+# ==============================
+.vscode/
+.idea/
 
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
-.cache/
+# ==============================
+# Operating System
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
