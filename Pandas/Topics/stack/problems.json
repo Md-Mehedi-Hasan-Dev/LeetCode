@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-11T06:55:57.646Z",
+  "updatedAt": "2026-11-11T06:56:15.208Z",
   "problems": [
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "Pandas/0496-next-greater-element-i/",
+      "readmePath": "Pandas/0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0496-next-greater-element-i.cpp",
+          "path": "Pandas/0496-next-greater-element-i/0496-next-greater-element-i.cpp",
+          "sha": "9f3cdce99d727afeb6e318a1103bb145988177f2",
+          "lastSyncedAt": "2026-11-11T06:56:15.208Z"
+        }
+      ]
+    },
     {
       "frontendId": "2211",
       "title": "Count Collisions on a Road",
