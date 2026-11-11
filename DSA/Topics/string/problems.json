@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T07:12:42.868Z",
+  "updatedAt": "2026-11-11T07:12:51.388Z",
   "problems": [
     {
       "frontendId": "20",
@@ -34,16 +34,16 @@
       "problemName": "2211-count-collisions-on-a-road",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/count-collisions-on-a-road/",
-      "folderPath": "Pandas/2211-count-collisions-on-a-road/",
-      "readmePath": "Pandas/2211-count-collisions-on-a-road/README.md",
+      "folderPath": "DSA/Medium/2211-count-collisions-on-a-road/",
+      "readmePath": "DSA/Medium/2211-count-collisions-on-a-road/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "2211-count-collisions-on-a-road.cpp",
-          "path": "Pandas/2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.cpp",
+          "path": "DSA/2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.cpp",
           "sha": "6cf454a515f4fc91d5c9398afc9107ef2fa788be",
-          "lastSyncedAt": "2026-11-11T06:55:57.646Z"
+          "lastSyncedAt": "2026-11-11T07:12:51.388Z"
         }
       ]
     },
