@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-11T06:58:15.340Z",
+  "updatedAt": "2026-11-11T06:58:28.464Z",
   "problems": [
     {
       "frontendId": "200",
@@ -44,6 +44,26 @@
           "path": "Pandas/0207-course-schedule/0207-course-schedule.cpp",
           "sha": "1d44eced1ffc2ee97709c9f0e215849b36bcac78",
           "lastSyncedAt": "2026-11-11T06:57:17.290Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "695",
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "problemName": "0695-max-area-of-island",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+      "folderPath": "Pandas/0695-max-area-of-island/",
+      "readmePath": "Pandas/0695-max-area-of-island/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0695-max-area-of-island.cpp",
+          "path": "Pandas/0695-max-area-of-island/0695-max-area-of-island.cpp",
+          "sha": "2821a76fa46be2dcdeb926d15c3939871abe075a",
+          "lastSyncedAt": "2026-11-11T06:58:28.464Z"
         }
       ]
     },
