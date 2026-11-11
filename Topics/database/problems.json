@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-11-11T07:11:32.152Z",
+  "problems": [
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "Easy/0595-big-countries/",
+      "readmePath": "Easy/0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0595-big-countries.py",
+          "path": "Pandas/0595-big-countries/0595-big-countries.py",
+          "sha": "62527a7a1e8cdcfdaad1a0cc91ae7287d570db66",
+          "lastSyncedAt": "2026-11-11T07:11:32.152Z"
+        }
+      ]
+    }
+  ]
+}
