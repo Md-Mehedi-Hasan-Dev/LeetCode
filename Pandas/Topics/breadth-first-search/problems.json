@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-11T06:58:28.464Z",
+  "updatedAt": "2026-11-11T06:58:47.030Z",
   "problems": [
     {
       "frontendId": "200",
@@ -124,6 +124,26 @@
           "path": "Pandas/1905-count-sub-islands/1905-count-sub-islands.cpp",
           "sha": "ca0cd1a977f7d962024a12946760d8bdebcd41d1",
           "lastSyncedAt": "2026-11-11T06:57:59.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "Pandas/1971-find-if-path-exists-in-graph/",
+      "readmePath": "Pandas/1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1971-find-if-path-exists-in-graph.cpp",
+          "path": "Pandas/1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.cpp",
+          "sha": "f8159ae26840f9c0e1d8a9f15becb849e75bd332",
+          "lastSyncedAt": "2026-11-11T06:58:47.030Z"
         }
       ]
     }
