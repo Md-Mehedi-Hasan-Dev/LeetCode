@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T06:57:38.703Z",
+  "updatedAt": "2026-11-11T06:57:59.401Z",
   "problems": [
     {
       "frontendId": "136",
@@ -104,6 +104,26 @@
           "path": "Pandas/1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
           "sha": "5535d7c4f7ddc05c13ef3f29a4f36a7f491d375d",
           "lastSyncedAt": "2026-11-11T06:57:38.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1905",
+      "title": "Count Sub Islands",
+      "slug": "count-sub-islands",
+      "problemName": "1905-count-sub-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-sub-islands/",
+      "folderPath": "Pandas/1905-count-sub-islands/",
+      "readmePath": "Pandas/1905-count-sub-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1905-count-sub-islands.cpp",
+          "path": "Pandas/1905-count-sub-islands/1905-count-sub-islands.cpp",
+          "sha": "ca0cd1a977f7d962024a12946760d8bdebcd41d1",
+          "lastSyncedAt": "2026-11-11T06:57:59.401Z"
         }
       ]
     }
