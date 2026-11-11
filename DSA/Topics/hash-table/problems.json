@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T07:12:24.544Z",
+  "updatedAt": "2026-11-11T07:12:58.268Z",
   "problems": [
     {
       "frontendId": "217",
@@ -34,16 +34,16 @@
       "problemName": "0496-next-greater-element-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
-      "folderPath": "Pandas/0496-next-greater-element-i/",
-      "readmePath": "Pandas/0496-next-greater-element-i/README.md",
+      "folderPath": "DSA/Easy/0496-next-greater-element-i/",
+      "readmePath": "DSA/Easy/0496-next-greater-element-i/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "0496-next-greater-element-i.cpp",
-          "path": "Pandas/0496-next-greater-element-i/0496-next-greater-element-i.cpp",
+          "path": "DSA/0496-next-greater-element-i/0496-next-greater-element-i.cpp",
           "sha": "9f3cdce99d727afeb6e318a1103bb145988177f2",
-          "lastSyncedAt": "2026-11-11T06:56:15.208Z"
+          "lastSyncedAt": "2026-11-11T07:12:58.268Z"
         }
       ]
     },
