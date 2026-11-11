@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-11T06:55:13.796Z",
+  "updatedAt": "2026-11-11T07:12:24.544Z",
   "problems": [
     {
       "frontendId": "621",
@@ -14,16 +14,16 @@
       "problemName": "0621-task-scheduler",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
-      "folderPath": "Pandas/0621-task-scheduler/",
-      "readmePath": "Pandas/0621-task-scheduler/README.md",
+      "folderPath": "DSA/Medium/0621-task-scheduler/",
+      "readmePath": "DSA/Medium/0621-task-scheduler/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "0621-task-scheduler.cpp",
-          "path": "Pandas/0621-task-scheduler/0621-task-scheduler.cpp",
+          "path": "DSA/0621-task-scheduler/0621-task-scheduler.cpp",
           "sha": "adfa186111a24a00a242652a60c6fdf2f243e111",
-          "lastSyncedAt": "2026-11-11T06:55:13.796Z"
+          "lastSyncedAt": "2026-11-11T07:12:24.544Z"
         }
       ]
     }
