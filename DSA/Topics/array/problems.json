@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T07:12:05.853Z",
+  "updatedAt": "2026-11-11T07:12:16.142Z",
   "problems": [
     {
       "frontendId": "136",
@@ -14,16 +14,16 @@
       "problemName": "0136-single-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/single-number/",
-      "folderPath": "Pandas/0136-single-number/",
-      "readmePath": "Pandas/0136-single-number/README.md",
+      "folderPath": "DSA/Easy/0136-single-number/",
+      "readmePath": "DSA/Easy/0136-single-number/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "0136-single-number.cpp",
-          "path": "Pandas/0136-single-number/0136-single-number.cpp",
+          "path": "DSA/0136-single-number/0136-single-number.cpp",
           "sha": "a5f7f61b66ce61c48b9ce7d096108a11c9f93651",
-          "lastSyncedAt": "2026-11-11T06:55:00.707Z"
+          "lastSyncedAt": "2026-11-11T07:12:16.142Z"
         }
       ]
     },
