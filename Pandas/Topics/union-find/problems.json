@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-11T06:58:15.340Z",
+  "updatedAt": "2026-11-11T06:58:28.464Z",
   "problems": [
     {
       "frontendId": "200",
@@ -24,6 +24,26 @@
           "path": "Pandas/0200-number-of-islands/0200-number-of-islands.cpp",
           "sha": "a2c004ca141f8f21432514cc43f0497b8a6d3ae0",
           "lastSyncedAt": "2026-11-11T06:58:15.340Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "695",
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "problemName": "0695-max-area-of-island",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+      "folderPath": "Pandas/0695-max-area-of-island/",
+      "readmePath": "Pandas/0695-max-area-of-island/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0695-max-area-of-island.cpp",
+          "path": "Pandas/0695-max-area-of-island/0695-max-area-of-island.cpp",
+          "sha": "2821a76fa46be2dcdeb926d15c3939871abe075a",
+          "lastSyncedAt": "2026-11-11T06:58:28.464Z"
         }
       ]
     },
