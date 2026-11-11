@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "directed-acyclic-graph",
+    "name": "Directed Acyclic Graph",
+    "tagId": "68864"
+  },
+  "updatedAt": "2026-11-11T06:57:17.290Z",
+  "problems": [
+    {
+      "frontendId": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "problemName": "0207-course-schedule",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+      "folderPath": "Pandas/0207-course-schedule/",
+      "readmePath": "Pandas/0207-course-schedule/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0207-course-schedule.cpp",
+          "path": "Pandas/0207-course-schedule/0207-course-schedule.cpp",
+          "sha": "1d44eced1ffc2ee97709c9f0e215849b36bcac78",
+          "lastSyncedAt": "2026-11-11T06:57:17.290Z"
+        }
+      ]
+    }
+  ]
+}
