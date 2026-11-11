@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T06:55:57.646Z",
+  "updatedAt": "2026-11-11T06:56:32.180Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "Pandas/0020-valid-parentheses/",
+      "readmePath": "Pandas/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0020-valid-parentheses.cpp",
+          "path": "Pandas/0020-valid-parentheses/0020-valid-parentheses.cpp",
+          "sha": "781db42d245035cf68997ae62537f2d3ccea014c",
+          "lastSyncedAt": "2026-11-11T06:56:32.180Z"
+        }
+      ]
+    },
     {
       "frontendId": "2211",
       "title": "Count Collisions on a Road",
