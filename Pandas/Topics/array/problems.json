@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T06:56:15.208Z",
+  "updatedAt": "2026-11-11T06:57:38.703Z",
   "problems": [
     {
       "frontendId": "136",
@@ -84,6 +84,26 @@
           "path": "Pandas/0621-task-scheduler/0621-task-scheduler.cpp",
           "sha": "adfa186111a24a00a242652a60c6fdf2f243e111",
           "lastSyncedAt": "2026-11-11T06:55:13.796Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "Pandas/1254-number-of-closed-islands/",
+      "readmePath": "Pandas/1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1254-number-of-closed-islands.cpp",
+          "path": "Pandas/1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
+          "sha": "5535d7c4f7ddc05c13ef3f29a4f36a7f491d375d",
+          "lastSyncedAt": "2026-11-11T06:57:38.703Z"
         }
       ]
     }
