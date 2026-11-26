@@ -7,13 +7,13 @@ Solutions to LeetCode Pandas problems using Python.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 16 | 8 | 8 | 0 |
+| 17 | 9 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 2 days | 12 |
+| 1 days | 2 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -29,21 +29,22 @@ Solutions to LeetCode Pandas problems using Python.
 | 2026-04-04 | 1 |
 | 2026-07-20 | 2 |
 | 2026-11-11 | 1 |
+| 2026-11-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 9 | 56% |
-| Breadth-First Search | 8 | 50% |
-| Depth-First Search | 8 | 50% |
-| Matrix | 5 | 31% |
-| Union-Find | 5 | 31% |
-| Graph Theory | 3 | 19% |
-| Hash Table | 3 | 19% |
-| Stack | 3 | 19% |
-| String | 3 | 19% |
-| Sorting | 2 | 13% |
+| Array | 9 | 53% |
+| Breadth-First Search | 8 | 47% |
+| Depth-First Search | 8 | 47% |
+| Matrix | 5 | 29% |
+| Union-Find | 5 | 29% |
+| Graph Theory | 3 | 18% |
+| Hash Table | 3 | 18% |
+| Stack | 3 | 18% |
+| String | 3 | 18% |
+| Database | 2 | 12% |
 
 ## Topics
 
@@ -54,7 +55,7 @@ Solutions to LeetCode Pandas problems using Python.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 8 |
 | [Counting](Topics/counting/) | 1 |
-| [Database](Topics/database/) | 1 |
+| [Database](Topics/database/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 8 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Graph Theory](Topics/graph/) | 3 |
