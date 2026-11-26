@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T09:47:31.754Z",
+  "updatedAt": "2026-11-26T09:51:44.672Z",
   "problems": [
     {
       "frontendId": "3884",
@@ -23,7 +23,7 @@
           "filename": "3884-first-matching-character-from-both-ends.cpp",
           "path": "LeetCode Solutions/Easy/3884-first-matching-character-from-both-ends/C++/3884-first-matching-character-from-both-ends.cpp",
           "sha": "551aa44891bc69511f77b55e95f56e72290337b1",
-          "lastSyncedAt": "2026-11-26T09:47:31.754Z"
+          "lastSyncedAt": "2026-11-26T09:51:44.672Z"
         }
       ]
     }
