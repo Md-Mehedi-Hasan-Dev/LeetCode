@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-11T07:11:32.152Z",
+  "updatedAt": "2026-11-26T09:34:51.574Z",
   "problems": [
     {
       "frontendId": "595",
@@ -24,6 +24,26 @@
           "path": "Pandas/0595-big-countries/0595-big-countries.py",
           "sha": "62527a7a1e8cdcfdaad1a0cc91ae7287d570db66",
           "lastSyncedAt": "2026-11-11T07:11:32.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1907",
+      "title": "Count Salary Categories",
+      "slug": "count-salary-categories",
+      "problemName": "1907-count-salary-categories",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-salary-categories/",
+      "folderPath": "Medium/1907-count-salary-categories/",
+      "readmePath": "Medium/1907-count-salary-categories/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "1907-count-salary-categories.py",
+          "path": "DSA/Medium/1907-count-salary-categories/Pandas/1907-count-salary-categories.py",
+          "sha": "b366bdc26b805f01b1a25b3368e1e911955a6192",
+          "lastSyncedAt": "2026-11-26T09:34:51.574Z"
         }
       ]
     }
