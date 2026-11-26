@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T08:05:29.744Z",
+  "updatedAt": "2026-11-26T08:05:35.482Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,7 +43,7 @@
           "filename": "2211-count-collisions-on-a-road.cpp",
           "path": "DSA/2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.cpp",
           "sha": "6cf454a515f4fc91d5c9398afc9107ef2fa788be",
-          "lastSyncedAt": "2026-11-11T07:12:51.388Z"
+          "lastSyncedAt": "2026-11-26T08:05:35.482Z"
         }
       ]
     },
