@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-26T09:37:28.953Z",
+  "updatedAt": "2026-11-26T09:37:36.417Z",
   "problems": [
     {
       "frontendId": "200",
@@ -44,6 +44,26 @@
           "path": "DSA/Medium/0207-course-schedule/C++/0207-course-schedule.cpp",
           "sha": "1d44eced1ffc2ee97709c9f0e215849b36bcac78",
           "lastSyncedAt": "2026-11-26T09:36:33.960Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "problemName": "0463-island-perimeter",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/island-perimeter/",
+      "folderPath": "Easy/0463-island-perimeter/",
+      "readmePath": "Easy/0463-island-perimeter/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0463-island-perimeter.cpp",
+          "path": "DSA/Easy/0463-island-perimeter/C++/0463-island-perimeter.cpp",
+          "sha": "78e809c2b17fa978565b9d63c086a1f33f09cfeb",
+          "lastSyncedAt": "2026-11-26T09:37:36.417Z"
         }
       ]
     },
