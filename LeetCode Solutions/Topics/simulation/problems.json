@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T09:47:37.308Z",
+  "updatedAt": "2026-11-26T09:51:50.275Z",
   "problems": [
     {
       "frontendId": "2211",
@@ -23,7 +23,7 @@
           "filename": "2211-count-collisions-on-a-road.cpp",
           "path": "LeetCode Solutions/Medium/2211-count-collisions-on-a-road/C++/2211-count-collisions-on-a-road.cpp",
           "sha": "6cf454a515f4fc91d5c9398afc9107ef2fa788be",
-          "lastSyncedAt": "2026-11-26T09:47:37.308Z"
+          "lastSyncedAt": "2026-11-26T09:51:50.275Z"
         }
       ]
     }
