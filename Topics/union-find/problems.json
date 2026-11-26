@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-26T09:37:20.426Z",
+  "updatedAt": "2026-11-26T09:37:28.953Z",
   "problems": [
     {
       "frontendId": "200",
@@ -84,6 +84,26 @@
           "path": "DSA/Medium/1905-count-sub-islands/C++/1905-count-sub-islands.cpp",
           "sha": "ca0cd1a977f7d962024a12946760d8bdebcd41d1",
           "lastSyncedAt": "2026-11-26T09:36:59.862Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "Easy/1971-find-if-path-exists-in-graph/",
+      "readmePath": "Easy/1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1971-find-if-path-exists-in-graph.cpp",
+          "path": "DSA/Easy/1971-find-if-path-exists-in-graph/C++/1971-find-if-path-exists-in-graph.cpp",
+          "sha": "f8159ae26840f9c0e1d8a9f15becb849e75bd332",
+          "lastSyncedAt": "2026-11-26T09:37:28.953Z"
         }
       ]
     }
