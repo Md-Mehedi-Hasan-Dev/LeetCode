@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T09:33:35.011Z",
+  "updatedAt": "2026-11-26T09:46:57.323Z",
   "problems": [
     {
       "frontendId": "196",
@@ -54,16 +54,16 @@
       "problemName": "1907-count-salary-categories",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/count-salary-categories/",
-      "folderPath": "DSA/Medium/1907-count-salary-categories/",
-      "readmePath": "DSA/Medium/1907-count-salary-categories/README.md",
+      "folderPath": "LeetCode Solutions/Medium/1907-count-salary-categories/",
+      "readmePath": "LeetCode Solutions/Medium/1907-count-salary-categories/README.md",
       "solutions": [
         {
           "language": "Pandas",
           "extension": ".py",
           "filename": "1907-count-salary-categories.py",
-          "path": "DSA/Medium/1907-count-salary-categories/Pandas/1907-count-salary-categories.py",
+          "path": "LeetCode Solutions/Medium/1907-count-salary-categories/Pandas/1907-count-salary-categories.py",
           "sha": "b366bdc26b805f01b1a25b3368e1e911955a6192",
-          "lastSyncedAt": "2026-11-26T09:33:29.696Z"
+          "lastSyncedAt": "2026-11-26T09:46:57.323Z"
         }
       ]
     }
