@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T09:34:59.524Z",
+  "updatedAt": "2026-11-26T09:35:08.633Z",
   "problems": [
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "Easy/0136-single-number/",
+      "readmePath": "Easy/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0136-single-number.cpp",
+          "path": "DSA/Easy/0136-single-number/C++/0136-single-number.cpp",
+          "sha": "a5f7f61b66ce61c48b9ce7d096108a11c9f93651",
+          "lastSyncedAt": "2026-11-26T09:35:08.633Z"
+        }
+      ]
+    },
     {
       "frontendId": "217",
       "title": "Contains Duplicate",
