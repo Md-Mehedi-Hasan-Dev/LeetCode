@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T09:47:13.425Z",
+  "updatedAt": "2026-11-26T09:47:18.823Z",
   "problems": [
     {
       "frontendId": "136",
@@ -114,16 +114,16 @@
       "problemName": "0621-task-scheduler",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
-      "folderPath": "DSA/Medium/0621-task-scheduler/",
-      "readmePath": "DSA/Medium/0621-task-scheduler/README.md",
+      "folderPath": "LeetCode Solutions/Medium/0621-task-scheduler/",
+      "readmePath": "LeetCode Solutions/Medium/0621-task-scheduler/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "0621-task-scheduler.cpp",
-          "path": "DSA/Medium/0621-task-scheduler/C++/0621-task-scheduler.cpp",
+          "path": "LeetCode Solutions/Medium/0621-task-scheduler/C++/0621-task-scheduler.cpp",
           "sha": "adfa186111a24a00a242652a60c6fdf2f243e111",
-          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
+          "lastSyncedAt": "2026-11-26T09:47:18.823Z"
         }
       ]
     },
