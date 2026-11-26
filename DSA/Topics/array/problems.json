@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T08:16:12.125Z",
+  "updatedAt": "2026-11-26T08:16:33.389Z",
   "problems": [
     {
       "frontendId": "136",
@@ -103,7 +103,7 @@
           "filename": "0496-next-greater-element-i.cpp",
           "path": "DSA/0496-next-greater-element-i/0496-next-greater-element-i.cpp",
           "sha": "9f3cdce99d727afeb6e318a1103bb145988177f2",
-          "lastSyncedAt": "2026-11-26T08:05:42.601Z"
+          "lastSyncedAt": "2026-11-26T08:16:33.389Z"
         }
       ]
     },
