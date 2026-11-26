@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-26T09:37:11.270Z",
+  "updatedAt": "2026-11-26T09:37:20.426Z",
   "problems": [
     {
       "frontendId": "200",
@@ -24,6 +24,26 @@
           "path": "DSA/Medium/0200-number-of-islands/C++/0200-number-of-islands.cpp",
           "sha": "a2c004ca141f8f21432514cc43f0497b8a6d3ae0",
           "lastSyncedAt": "2026-11-26T09:37:11.270Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "695",
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "problemName": "0695-max-area-of-island",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+      "folderPath": "Medium/0695-max-area-of-island/",
+      "readmePath": "Medium/0695-max-area-of-island/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0695-max-area-of-island.cpp",
+          "path": "DSA/Medium/0695-max-area-of-island/C++/0695-max-area-of-island.cpp",
+          "sha": "2821a76fa46be2dcdeb926d15c3939871abe075a",
+          "lastSyncedAt": "2026-11-26T09:37:20.426Z"
         }
       ]
     },
