@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T08:05:35.482Z",
+  "updatedAt": "2026-11-26T08:16:27.256Z",
   "problems": [
     {
       "frontendId": "2211",
@@ -23,7 +23,7 @@
           "filename": "2211-count-collisions-on-a-road.cpp",
           "path": "DSA/2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.cpp",
           "sha": "6cf454a515f4fc91d5c9398afc9107ef2fa788be",
-          "lastSyncedAt": "2026-11-26T08:05:35.482Z"
+          "lastSyncedAt": "2026-11-26T08:16:27.256Z"
         }
       ]
     }
