@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T09:04:37.184Z",
+  "updatedAt": "2026-11-26T09:28:50.573Z",
   "problems": [
     {
       "frontendId": "621",
@@ -21,9 +21,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0621-task-scheduler.cpp",
-          "path": "DSA/0621-task-scheduler/0621-task-scheduler.cpp",
+          "path": "DSA/Medium/0621-task-scheduler/C++/0621-task-scheduler.cpp",
           "sha": "adfa186111a24a00a242652a60c6fdf2f243e111",
-          "lastSyncedAt": "2026-11-26T09:04:37.184Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     }

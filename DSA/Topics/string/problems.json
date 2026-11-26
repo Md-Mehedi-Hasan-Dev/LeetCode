@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T09:05:10.801Z",
+  "updatedAt": "2026-11-26T09:28:50.573Z",
   "problems": [
     {
       "frontendId": "20",
@@ -21,9 +21,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0020-valid-parentheses.cpp",
-          "path": "DSA/0020-valid-parentheses/0020-valid-parentheses.cpp",
+          "path": "DSA/Easy/0020-valid-parentheses/C++/0020-valid-parentheses.cpp",
           "sha": "781db42d245035cf68997ae62537f2d3ccea014c",
-          "lastSyncedAt": "2026-11-26T09:05:10.801Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "2211-count-collisions-on-a-road.cpp",
-          "path": "DSA/2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.cpp",
+          "path": "DSA/Medium/2211-count-collisions-on-a-road/C++/2211-count-collisions-on-a-road.cpp",
           "sha": "6cf454a515f4fc91d5c9398afc9107ef2fa788be",
-          "lastSyncedAt": "2026-11-26T09:04:55.203Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -61,9 +61,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "3884-first-matching-character-from-both-ends.cpp",
-          "path": "DSA/3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.cpp",
+          "path": "DSA/Easy/3884-first-matching-character-from-both-ends/C++/3884-first-matching-character-from-both-ends.cpp",
           "sha": "551aa44891bc69511f77b55e95f56e72290337b1",
-          "lastSyncedAt": "2026-11-26T09:04:49.444Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     }

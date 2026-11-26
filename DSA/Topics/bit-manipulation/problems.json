@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-26T09:04:32.671Z",
+  "updatedAt": "2026-11-26T09:28:50.573Z",
   "problems": [
     {
       "frontendId": "136",
@@ -21,9 +21,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0136-single-number.cpp",
-          "path": "DSA/0136-single-number/0136-single-number.cpp",
+          "path": "DSA/Easy/0136-single-number/C++/0136-single-number.cpp",
           "sha": "a5f7f61b66ce61c48b9ce7d096108a11c9f93651",
-          "lastSyncedAt": "2026-11-26T09:04:32.671Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     }

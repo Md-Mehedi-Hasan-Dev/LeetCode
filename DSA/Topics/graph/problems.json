@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-26T09:06:26.715Z",
+  "updatedAt": "2026-11-26T09:28:50.573Z",
   "problems": [
     {
       "frontendId": "207",
@@ -21,9 +21,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0207-course-schedule.cpp",
-          "path": "DSA/0207-course-schedule/0207-course-schedule.cpp",
+          "path": "DSA/Medium/0207-course-schedule/C++/0207-course-schedule.cpp",
           "sha": "1d44eced1ffc2ee97709c9f0e215849b36bcac78",
-          "lastSyncedAt": "2026-11-26T09:05:37.731Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0802-find-eventual-safe-states.cpp",
-          "path": "DSA/0802-find-eventual-safe-states/0802-find-eventual-safe-states.cpp",
+          "path": "DSA/Medium/0802-find-eventual-safe-states/C++/0802-find-eventual-safe-states.cpp",
           "sha": "18a8f2e9bd9f80aafbf819093faa01f434dee4d9",
-          "lastSyncedAt": "2026-11-26T09:05:17.962Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -61,9 +61,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "1971-find-if-path-exists-in-graph.cpp",
-          "path": "DSA/1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.cpp",
+          "path": "DSA/Easy/1971-find-if-path-exists-in-graph/C++/1971-find-if-path-exists-in-graph.cpp",
           "sha": "f8159ae26840f9c0e1d8a9f15becb849e75bd332",
-          "lastSyncedAt": "2026-11-26T09:06:26.715Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-26T09:06:34.817Z",
+  "updatedAt": "2026-11-26T09:28:50.573Z",
   "problems": [
     {
       "frontendId": "200",
@@ -21,9 +21,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0200-number-of-islands.cpp",
-          "path": "DSA/0200-number-of-islands/0200-number-of-islands.cpp",
+          "path": "DSA/Medium/0200-number-of-islands/C++/0200-number-of-islands.cpp",
           "sha": "a2c004ca141f8f21432514cc43f0497b8a6d3ae0",
-          "lastSyncedAt": "2026-11-26T09:06:07.333Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0463-island-perimeter.cpp",
-          "path": "DSA/0463-island-perimeter/0463-island-perimeter.cpp",
+          "path": "DSA/Easy/0463-island-perimeter/C++/0463-island-perimeter.cpp",
           "sha": "78e809c2b17fa978565b9d63c086a1f33f09cfeb",
-          "lastSyncedAt": "2026-11-26T09:06:34.817Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -61,9 +61,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0695-max-area-of-island.cpp",
-          "path": "DSA/0695-max-area-of-island/0695-max-area-of-island.cpp",
+          "path": "DSA/Medium/0695-max-area-of-island/C++/0695-max-area-of-island.cpp",
           "sha": "2821a76fa46be2dcdeb926d15c3939871abe075a",
-          "lastSyncedAt": "2026-11-26T09:06:15.572Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "1254-number-of-closed-islands.cpp",
-          "path": "DSA/1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
+          "path": "DSA/Medium/1254-number-of-closed-islands/C++/1254-number-of-closed-islands.cpp",
           "sha": "5535d7c4f7ddc05c13ef3f29a4f36a7f491d375d",
-          "lastSyncedAt": "2026-11-26T09:05:47.607Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     },
@@ -101,9 +101,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "1905-count-sub-islands.cpp",
-          "path": "DSA/1905-count-sub-islands/1905-count-sub-islands.cpp",
+          "path": "DSA/Medium/1905-count-sub-islands/C++/1905-count-sub-islands.cpp",
           "sha": "ca0cd1a977f7d962024a12946760d8bdebcd41d1",
-          "lastSyncedAt": "2026-11-26T09:05:58.462Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     }

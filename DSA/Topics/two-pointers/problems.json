@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T09:04:49.444Z",
+  "updatedAt": "2026-11-26T09:28:50.573Z",
   "problems": [
     {
       "frontendId": "3884",
@@ -21,9 +21,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "3884-first-matching-character-from-both-ends.cpp",
-          "path": "DSA/3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.cpp",
+          "path": "DSA/Easy/3884-first-matching-character-from-both-ends/C++/3884-first-matching-character-from-both-ends.cpp",
           "sha": "551aa44891bc69511f77b55e95f56e72290337b1",
-          "lastSyncedAt": "2026-11-26T09:04:49.444Z"
+          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
         }
       ]
     }
