@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T09:33:37.052Z",
+  "updatedAt": "2026-11-26T09:47:05.010Z",
   "problems": [
     {
       "frontendId": "217",
@@ -14,16 +14,16 @@
       "problemName": "0217-contains-duplicate",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
-      "folderPath": "DSA/Easy/0217-contains-duplicate/",
-      "readmePath": "DSA/Easy/0217-contains-duplicate/README.md",
+      "folderPath": "LeetCode Solutions/Easy/0217-contains-duplicate/",
+      "readmePath": "LeetCode Solutions/Easy/0217-contains-duplicate/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "0217-contains-duplicate.cpp",
-          "path": "DSA/Easy/0217-contains-duplicate/C++/0217-contains-duplicate.cpp",
+          "path": "LeetCode Solutions/Easy/0217-contains-duplicate/C++/0217-contains-duplicate.cpp",
           "sha": "76cf15ed53741611b73c061eadd280b1e9a63194",
-          "lastSyncedAt": "2026-11-26T09:33:37.052Z"
+          "lastSyncedAt": "2026-11-26T09:47:05.010Z"
         }
       ]
     },
