@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-26T09:05:58.462Z",
+  "updatedAt": "2026-11-26T09:06:07.333Z",
   "problems": [
     {
       "frontendId": "200",
@@ -23,7 +23,7 @@
           "filename": "0200-number-of-islands.cpp",
           "path": "DSA/0200-number-of-islands/0200-number-of-islands.cpp",
           "sha": "a2c004ca141f8f21432514cc43f0497b8a6d3ae0",
-          "lastSyncedAt": "2026-11-26T08:17:31.908Z"
+          "lastSyncedAt": "2026-11-26T09:06:07.333Z"
         }
       ]
     },
