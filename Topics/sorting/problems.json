@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T07:11:36.218Z",
+  "updatedAt": "2026-11-26T09:34:59.524Z",
   "problems": [
     {
       "frontendId": "217",
@@ -21,9 +21,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0217-contains-duplicate.cpp",
-          "path": "DSA/0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "path": "DSA/Easy/0217-contains-duplicate/C++/0217-contains-duplicate.cpp",
           "sha": "76cf15ed53741611b73c061eadd280b1e9a63194",
-          "lastSyncedAt": "2026-11-11T07:11:36.218Z"
+          "lastSyncedAt": "2026-11-26T09:34:59.524Z"
         }
       ]
     }
