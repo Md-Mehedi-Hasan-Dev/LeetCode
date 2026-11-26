@@ -7,13 +7,13 @@ Solutions to LeetCode Pandas problems using Python.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 16 | 9 | 7 | 0 |
+| 16 | 8 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 12 |
+| 0 days | 2 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
