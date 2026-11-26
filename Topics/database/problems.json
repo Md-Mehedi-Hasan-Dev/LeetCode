@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T09:34:51.574Z",
+  "updatedAt": "2026-11-26T09:34:54.639Z",
   "problems": [
+    {
+      "frontendId": "196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "problemName": "0196-delete-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-emails/",
+      "folderPath": "Easy/0196-delete-duplicate-emails/",
+      "readmePath": "Easy/0196-delete-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0196-delete-duplicate-emails.py",
+          "path": "DSA/Easy/0196-delete-duplicate-emails/Pandas/0196-delete-duplicate-emails.py",
+          "sha": "7b8fcdf8e8b45b9a02025190e43dd357fa2a1ffe",
+          "lastSyncedAt": "2026-11-26T09:34:54.639Z"
+        }
+      ]
+    },
     {
       "frontendId": "595",
       "title": "Big Countries",
