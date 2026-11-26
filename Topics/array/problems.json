@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T09:36:59.862Z",
+  "updatedAt": "2026-11-26T09:37:11.270Z",
   "problems": [
     {
       "frontendId": "136",
@@ -24,6 +24,26 @@
           "path": "DSA/Easy/0136-single-number/C++/0136-single-number.cpp",
           "sha": "a5f7f61b66ce61c48b9ce7d096108a11c9f93651",
           "lastSyncedAt": "2026-11-26T09:35:08.633Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "Medium/0200-number-of-islands/",
+      "readmePath": "Medium/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "DSA/Medium/0200-number-of-islands/C++/0200-number-of-islands.cpp",
+          "sha": "a2c004ca141f8f21432514cc43f0497b8a6d3ae0",
+          "lastSyncedAt": "2026-11-26T09:37:11.270Z"
         }
       ]
     },
