@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T09:48:26.263Z",
+  "updatedAt": "2026-11-26T09:48:39.237Z",
   "problems": [
     {
       "frontendId": "136",
@@ -174,16 +174,16 @@
       "problemName": "1905-count-sub-islands",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/count-sub-islands/",
-      "folderPath": "DSA/Medium/1905-count-sub-islands/",
-      "readmePath": "DSA/Medium/1905-count-sub-islands/README.md",
+      "folderPath": "LeetCode Solutions/Medium/1905-count-sub-islands/",
+      "readmePath": "LeetCode Solutions/Medium/1905-count-sub-islands/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "1905-count-sub-islands.cpp",
-          "path": "DSA/Medium/1905-count-sub-islands/C++/1905-count-sub-islands.cpp",
+          "path": "LeetCode Solutions/Medium/1905-count-sub-islands/C++/1905-count-sub-islands.cpp",
           "sha": "ca0cd1a977f7d962024a12946760d8bdebcd41d1",
-          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
+          "lastSyncedAt": "2026-11-26T09:48:39.237Z"
         }
       ]
     }
