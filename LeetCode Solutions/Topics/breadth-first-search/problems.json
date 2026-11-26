@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-26T09:48:39.237Z",
+  "updatedAt": "2026-11-26T09:48:47.333Z",
   "problems": [
     {
       "frontendId": "200",
@@ -14,16 +14,16 @@
       "problemName": "0200-number-of-islands",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
-      "folderPath": "DSA/Medium/0200-number-of-islands/",
-      "readmePath": "DSA/Medium/0200-number-of-islands/README.md",
+      "folderPath": "LeetCode Solutions/Medium/0200-number-of-islands/",
+      "readmePath": "LeetCode Solutions/Medium/0200-number-of-islands/README.md",
       "solutions": [
         {
           "language": "C++",
           "extension": ".cpp",
           "filename": "0200-number-of-islands.cpp",
-          "path": "DSA/Medium/0200-number-of-islands/C++/0200-number-of-islands.cpp",
+          "path": "LeetCode Solutions/Medium/0200-number-of-islands/C++/0200-number-of-islands.cpp",
           "sha": "a2c004ca141f8f21432514cc43f0497b8a6d3ae0",
-          "lastSyncedAt": "2026-11-26T09:28:50.573Z"
+          "lastSyncedAt": "2026-11-26T09:48:47.333Z"
         }
       ]
     },
