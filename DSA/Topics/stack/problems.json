@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-26T08:16:33.389Z",
+  "updatedAt": "2026-11-26T08:16:41.271Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,7 +23,7 @@
           "filename": "0020-valid-parentheses.cpp",
           "path": "DSA/0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "781db42d245035cf68997ae62537f2d3ccea014c",
-          "lastSyncedAt": "2026-11-26T08:05:50.659Z"
+          "lastSyncedAt": "2026-11-26T08:16:41.271Z"
         }
       ]
     },
