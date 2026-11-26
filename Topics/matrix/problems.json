@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-26T09:37:20.426Z",
+  "updatedAt": "2026-11-26T09:37:36.417Z",
   "problems": [
     {
       "frontendId": "200",
@@ -24,6 +24,26 @@
           "path": "DSA/Medium/0200-number-of-islands/C++/0200-number-of-islands.cpp",
           "sha": "a2c004ca141f8f21432514cc43f0497b8a6d3ae0",
           "lastSyncedAt": "2026-11-26T09:37:11.270Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "problemName": "0463-island-perimeter",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/island-perimeter/",
+      "folderPath": "Easy/0463-island-perimeter/",
+      "readmePath": "Easy/0463-island-perimeter/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0463-island-perimeter.cpp",
+          "path": "DSA/Easy/0463-island-perimeter/C++/0463-island-perimeter.cpp",
+          "sha": "78e809c2b17fa978565b9d63c086a1f33f09cfeb",
+          "lastSyncedAt": "2026-11-26T09:37:36.417Z"
         }
       ]
     },
