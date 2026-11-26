@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-11-26T09:35:34.516Z",
+  "problems": [
+    {
+      "frontendId": "3884",
+      "title": "First Matching Character From Both Ends",
+      "slug": "first-matching-character-from-both-ends",
+      "problemName": "3884-first-matching-character-from-both-ends",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-matching-character-from-both-ends/",
+      "folderPath": "Easy/3884-first-matching-character-from-both-ends/",
+      "readmePath": "Easy/3884-first-matching-character-from-both-ends/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3884-first-matching-character-from-both-ends.cpp",
+          "path": "DSA/Easy/3884-first-matching-character-from-both-ends/C++/3884-first-matching-character-from-both-ends.cpp",
+          "sha": "551aa44891bc69511f77b55e95f56e72290337b1",
+          "lastSyncedAt": "2026-11-26T09:35:34.516Z"
+        }
+      ]
+    }
+  ]
+}
